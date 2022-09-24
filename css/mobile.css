@@ -1,0 +1,34 @@
+@media(max-width: 767px) {
+    .text-nav{
+        display: none !important;
+    }
+    #nav-bar{
+        display: block;
+        height: auto;
+    }
+    #nav-bar a:link, a:visited{
+        display: block;
+        padding: 16px !important;
+        border-left: none !important;
+        text-align: left;
+    }
+    #target{
+        margin-left: -24px !important;
+        margin-bottom: -24px;
+    }
+    #ngonngu{
+        margin-top: 20px !important;
+    }
+    #kynang{
+        margin-top: 20px !important;
+    }
+    .chungchi-conter2{
+        border-left: 0px !important;
+        border-top: 2px solid #d6c08d;
+        padding-top: 20px;
+    }
+    .avt-nangcao{
+        display: none;
+    }
+}
+

@@ -1,0 +1,35 @@
+@media(min-width:768px) and (max-width: 1023px){
+    .text-nav {
+        display: none !important;
+    }
+    #nav-bar a:link, a:visited{
+        padding: 20px 10px !important;
+        margin-bottom: 1rem;
+        padding-bottom: 30px;
+    }
+    #nav-bar {
+        margin-top: 1rem;
+    }
+  #target{
+    padding: 10px 60px 80px 60px !important;
+  }
+  #personal-info{
+    padding: 50px 40px !important;
+  }
+   #kynang{
+    margin-top: -520px !important;
+ }
+ #sothich{
+    margin-top: -220px !important;
+ }
+ #ngonngu{
+    margin-top: 20px !important;
+}
+.chungchi-conter{
+    flex-direction: column;
+    gap: 30px;
+}
+.avt-nangcao{
+  display: none;
+}
+}
